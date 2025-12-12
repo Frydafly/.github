@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//Users/frydaguedes/Documents/claude-contribution-guides/**)"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
